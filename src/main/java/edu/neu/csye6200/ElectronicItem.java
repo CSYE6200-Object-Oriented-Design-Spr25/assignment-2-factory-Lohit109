@@ -20,7 +20,6 @@ public class ElectronicItem extends Item {
     public int getWarrantyMonths() {
         return warrantyMonths;
     }
-    
 
     @Override
     public String toString() {
@@ -32,4 +31,3 @@ public class ElectronicItem extends Item {
                '}';
     }
 }
-
